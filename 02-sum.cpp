@@ -11,8 +11,6 @@ void main()
  cout<<"  N"<<setw(13)<<"f(N)"<<endl;
  cout<<"--------------------------"<<endl;
 
- //despliega el contenido de un arreglo n en formato tabular
-
  for (N=1;N<=1000;N++)
   {
    t=0;
